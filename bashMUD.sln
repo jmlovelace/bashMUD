@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bashMUD", "bashMUD.csproj", "{F275D68A-6BF3-44DA-A0CB-245818A974A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F275D68A-6BF3-44DA-A0CB-245818A974A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F275D68A-6BF3-44DA-A0CB-245818A974A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F275D68A-6BF3-44DA-A0CB-245818A974A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F275D68A-6BF3-44DA-A0CB-245818A974A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
